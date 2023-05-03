@@ -1,0 +1,17 @@
+Execute-Process
+Execute-MSI 
+
+Get-RegistryKey
+
+New-File
+New-Folder
+New-Shortcut
+
+Set-RegistryKey
+
+Copy-File
+
+Remove-File
+Remove-Folder
+Remove-Shortcut
+Remove-MSI
