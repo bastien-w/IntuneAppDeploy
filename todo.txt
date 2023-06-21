@@ -1,5 +1,5 @@
-Execute-Process
-Execute-MSI 
+Invoke-Process
+Invoke-MSI 
 
 Get-RegistryKey
 
